@@ -1,6 +1,6 @@
 {
   "name": "musiva-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight formatting and string utility toolkit",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

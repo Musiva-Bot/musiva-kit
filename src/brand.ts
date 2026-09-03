@@ -1,7 +1,7 @@
 import chalk from "chalk";
 
 export const BRAND = Object.freeze({
-  NAME: "MUSIVA",
+  NAME: "Musiva",
   OWNER: "Musiva Team",
   SUPPORT: "https://discord.com/invite/bDf9snBhyC",
   WEBSITE: "https://musiva.app",

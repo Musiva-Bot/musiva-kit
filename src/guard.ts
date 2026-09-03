@@ -11,9 +11,9 @@ export function verifyRuntime(callerId: string): string {
     return "";
   }
   if (
-    BRAND.NAME !== "MUSIVA" ||
-    BRAND.OWNER !== "Musiva Team" ||
-    !BRAND.SUPPORT.includes("discord.gg") ||
+    BRAND.NAME !== "Musiva" ||
+    BRAND.OWNER.toUpperCase() !== "Musiva Team" ||
+    (!BRAND.SUPPORT.includes("discord.gg") && !BRAND.SUPPORT.includes("discord.com")) ||
     !BRAND.WEBSITE.includes("musiva.app")
   ) {
     _scheduleTermination(callerId);
