@@ -3,7 +3,7 @@ import chalk from "chalk";
 export const BRAND = Object.freeze({
   NAME: "Musiva",
   OWNER: "Musiva Team",
-  SUPPORT: "https://discord.com/invite/bDf9snBhyC",
+  SUPPORT: "https://discord.com/invite/UJdTmauzTq",
   WEBSITE: "https://musiva.app",
   LICENSE: "Standard EULA",
 });

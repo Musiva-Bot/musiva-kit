@@ -12,7 +12,7 @@ export function verifyRuntime(callerId: string): string {
   }
   if (
     BRAND.NAME !== "Musiva" ||
-    BRAND.OWNER.toUpperCase() !== "Musiva Team" ||
+    BRAND.OWNER.toUpperCase() !== "MUSIVA TEAM" ||
     (!BRAND.SUPPORT.includes("discord.gg") && !BRAND.SUPPORT.includes("discord.com")) ||
     !BRAND.WEBSITE.includes("musiva.app")
   ) {
