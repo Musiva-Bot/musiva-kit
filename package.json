@@ -1,5 +1,5 @@
 {
-  "name": "mstg-kit",
+  "name": "musiva-kit",
   "version": "1.0.0",
   "description": "Lightweight formatting and string utility toolkit",
   "main": "dist/index.js",
@@ -22,7 +22,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/musiva/mstg-kit.git"
+    "url": "git+https://github.com/musiva-bot/musiva-kit.git"
   },
   "dependencies": {
     "chalk": "^5.3.0"

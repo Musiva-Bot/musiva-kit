@@ -1,4 +1,4 @@
-# mstg-kit
+# musiva-kit
 
 Lightweight formatting and string utility toolkit.
 
@@ -13,7 +13,7 @@ Lightweight formatting and string utility toolkit.
 ## Usage
 
 ```js
-import { formatDuration, truncateString } from "mstg-kit";
+import { formatDuration, truncateString } from "musiva-kit";
 
 formatDuration(225000);       // "03:45"
 truncateString("Hello World", 8); // "Hello..."
